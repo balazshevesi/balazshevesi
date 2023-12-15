@@ -31,7 +31,7 @@ Im constantly trying to improve and evolve as a developer, so the content of the
   I built this to gain a deeper understanding of reacts inner workings
 - **webshop** *A fully complete webshop 🛍️, also my gymnasiearbete (currently WIP)*
 
-  My gymnasiearbete
+  My gymnasiearbete. (it's not finished yet)
 
 ## What's Next?
 I'm on the lookout for something cool. If you're working on a project that could use my skills, feel free to reach out!
