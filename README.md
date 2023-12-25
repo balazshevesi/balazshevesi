@@ -13,7 +13,7 @@ Im constantly trying to improve and evolve as a developer, so the content of the
 [![Frameworks & Libraries](https://skillicons.dev/icons?i=react,nextjs,tailwind)](https://skillicons.dev)
 
 ### Databases
-[![Databases](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgresql)](https://skillicons.dev)
 
 ### Tools
 [![Databases](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)
