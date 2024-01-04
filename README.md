@@ -4,8 +4,6 @@ I'm currently based in southern Sweden🇸🇪 (my name is Hungarian🇭🇺). W
 
 ## Tech Stack
 
-Im constantly trying to improve and evolve as a developer, so the content of these lists might come to change in the (near) future.
-
 ### Languages
 [![Languages](https://skillicons.dev/icons?i=ts,js,html,css)](https://skillicons.dev)
 
@@ -17,21 +15,6 @@ Im constantly trying to improve and evolve as a developer, so the content of the
 
 ### Tools
 [![Databases](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)
-
-## Recent Projects
-
-- **react-ripples-continued** *The material design ripple effect for react ⚛️ made simple yet customisable*
-  
-  I built this because I couldn't find a good and lightweight ripple effect library for react, so i though that i'd make my own
-- **nar-slutar-lektionen** *A simple webapp for checking when the lesson ends ⏰*
-
-  Built ontop of skola24s strange and undocumented API
-- **poor-mans-react-js** *A simple recreation of React ⚛️*
-
-  I built this to gain a deeper understanding of reacts inner workings
-- **webshop** *A fully complete webshop 🛍️, also my gymnasiearbete (currently WIP)*
-
-  My gymnasiearbete. (it's not finished yet)
 
 ## What's Next?
 I'm on the lookout for something cool. If you're working on a project that could use my skills, feel free to reach out!
