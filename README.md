@@ -1,8 +1,8 @@
 
-# 👋 Tjena! jag heter Balazs
+# 👋 Hello! my name is Balazs
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balazshevesi&layout=compact&theme=dark"/>
 
-Min passion ligger i att skapa. När jag var barn så var det Lego som gällde, därefter blev det Minecraft, sedan blev det musikproduktion. Numera är det programmering.
+Computer Science student at Linnaeus Lniversity in Växjö Sweden. I like building stuff, esspecially with javascript
 
 <img align="left" src="https://skillicons.dev/icons?i=ts,html,css,react,nextjs,mysql,java,py&perline=8"/>
